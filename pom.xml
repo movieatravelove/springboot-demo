@@ -5,7 +5,7 @@
     <name>springboot-demo</name>
     <description>SpringBoot 脚手架</description>
     <modelVersion>4.0.0</modelVersion>
-    <packaging>war</packaging>
+    <packaging>jar</packaging>
 
     <!-- 项目说明 -->
     <groupId>com.zhang</groupId>
